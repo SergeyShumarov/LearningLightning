@@ -1,0 +1,5 @@
+<aura:component>
+    <h1>Hello world again!!!</h1>
+    <p>It was created in Developer console.</p>
+    <p>It is new code from MVS.</p>
+</aura:component>
